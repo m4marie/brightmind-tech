@@ -20,7 +20,7 @@
 |----------------|------------|
 | Backend        | Java Servlet API |
 | Build Tool     | Apache Maven |
-| Web Server    | Apache Tomcat 10+ |
+| Web Server    | Apache Tomcat 9+ |
 | CI/CD         | Jenkins |
 
 ## 🚀 Quick Start  

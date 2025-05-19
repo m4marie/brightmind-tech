@@ -49,13 +49,8 @@ brightmind-tech/
 └── pom.xml
 
 🔄 CI/CD Pipeline
-graph LR
-    A[GitHub] -->|Pull| B(Jenkins)
-    B -->|Build| C[WAR File]
-    C -->|Deploy| D[Tomcat]
 
-    <div align="center">
+    A[GitHub] -->|Pull| B(Jenkins)B -->|Build| C[WAR File]C -->|Deploy| D[Tomcat]
+
 License
 © 2025 Bright Mind Tech
-
-</div> ```
